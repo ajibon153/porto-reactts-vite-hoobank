@@ -1,4 +1,13 @@
-import { Hero, Navbar, Stats, Business, CardDeal, Billing } from './components';
+import {
+  Hero,
+  Navbar,
+  Stats,
+  Business,
+  CardDeal,
+  Billing,
+  Testimonials,
+  Clients,
+} from './components';
 import { styles } from './constants';
 
 const App = () => {
@@ -20,8 +29,10 @@ const App = () => {
         <div className={`${styles.boxWidth}`}>
           <Stats />
           <Business />
-          <CardDeal />
           <Billing />
+          <CardDeal />
+          <Testimonials />
+          <Clients />
         </div>
       </div>
     </div>
