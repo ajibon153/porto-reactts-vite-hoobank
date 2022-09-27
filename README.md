@@ -1,4 +1,4 @@
-## Project Source
+<!-- ## Project Source
 
 https://www.youtube.com/watch?v=_oO4Qi5aVZs
 
@@ -8,7 +8,7 @@ Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with T
 
 ## Channel
 
-JavaScript Mastery
+JavaScript Mastery -->
 
 ## Tech
 
