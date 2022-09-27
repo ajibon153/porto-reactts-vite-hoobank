@@ -1,6 +1,8 @@
+import Hero from './Hero';
 import Navbar from './Navbar';
 import Business from './Business';
 import Stats from './Stats';
-import Hero from './Hero';
+import Billing from './Billing';
+import CardDeal from './CardDeal';
 
-export { Navbar, Business, Stats, Hero };
+export { Hero, Navbar, Business, Stats, Billing, CardDeal };
