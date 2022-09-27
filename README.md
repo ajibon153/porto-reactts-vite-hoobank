@@ -15,6 +15,7 @@ JavaScript Mastery -->
 - React
 - Tailwind
 - Typescript
+- responsive
 
 - Vite v3.0.2
   Vite is a javascript webtool that simplified the way we build and develope frontend web application. vite is a native module in the browser to load code instantly no matter how large the file is. and easy develope on HMR (Hard Module Replacement)
